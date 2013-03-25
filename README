@@ -2,3 +2,9 @@ database-cata
 =============
 
 Database for "myraje/mangos-cata"
+
+SETUP:
+
+1) Extract and apply "base/YTDB_0.16.8_R710_MaNGOS4_R12309_SD2_R2754_ACID_R310_RuDB_R56.7z"
+2) Apply "base/updates/*.sql"
+3) Apply other patches
